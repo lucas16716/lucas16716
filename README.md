@@ -114,7 +114,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucas16716.lucas16716&left_color=dodgerblue&right_color=slategrey&left_text=%F0%9F%91%81%EF%B8%8F%20Profile%20Views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lucas16716.Lucas16716&left_color=dodgerblue&right_color=slategrey&left_text=%F0%9F%91%81%EF%B8%8F%20Profile%20Views"  />
 </div>
 
 ###
