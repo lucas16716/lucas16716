@@ -105,8 +105,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucas16716&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1" height="135" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lucas16716&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="135" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas16716&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1" height="135" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas16716&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="135" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucas16716&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" height="284" alt="activity-graph graph"  />
 </div>
 
@@ -114,7 +114,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lucas16716.Lucas16716&left_color=dodgerblue&right_color=slategrey&left_text=%F0%9F%91%81%EF%B8%8F%20Profile%20Views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=lucas16716.lucas16716&left_color=dodgerblue&right_color=slategrey&left_text=%F0%9F%91%81%EF%B8%8F%20Profile%20Views"  />
 </div>
 
 ###
