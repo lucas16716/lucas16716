@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">🎓 Profissional de TI - Tecnologia da Informação e Técnico de Informática <br>📚 Atualmente estudando Front-End e UX/UI Design na Origamid <br>🎯 Objetivo é tornar-me um Desenvolvedor Web Full Stack <br>🎵 A música é essencial para me manter focado <br>🔭 Amo caminhar pela cidade idealizando soluções tecnológicas para colocar em prática <br>📍 Sou brasileiro com muito orgulho</p>
+<p align="left">🎓 Profissional de TI - Tecnologia da Informação e Técnico de Informática <br>📚 Atualmente estudando Front-End e UX/UI Design na Origamid <br>🎯 Objetivo é tornar-me um Desenvolvedor Web Full Stack <br>🎵 A música é essencial para me manter focado <br>🔭 Amo caminhar pela cidade idealizando soluções tecnológicas para programar <br>📍 Sou brasileiro com muito orgulho</p>
 
 ###
 
