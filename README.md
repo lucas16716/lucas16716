@@ -9,7 +9,7 @@
   
 ###
 
-<p align="center">Meu nome é Lucas e sou um Desenvolvedor Web apaixonado em programação Front-End e UX/UI Design. Meu objetivo e entusiasmo é transformar a realidade através de códigos, criando soluções digitais inovadoras, eficientes e interativas, proporcionando experiências únicas para cada usuário. Vamos juntos contribuir para a evolução tecnológica! 🚀🌐</p>
+<p align="center">Meu nome é Lucas e sou um Desenvolvedor Web apaixonado em programação Front-End e UX/UI Design. Meu objetivo e entusiasmo é transformar a realidade através de códigos, criando soluções digitais inovadoras, eficientes e interativas, proporcionando experiências únicas para cada usuário. Vamos juntos contribuir para a evolução da tecnologia! 🚀🌐</p>
 
 ###
 
