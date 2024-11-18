@@ -103,18 +103,20 @@
 ###
 
 <div align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lucas16716&theme=github-dark-dimmed&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=135)](https://git.io/streak-stats)
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas16716&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1" height="135" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas16716&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="135" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucas16716&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" height="284" alt="activity-graph graph"  />
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lucas16716&theme=github-dark-dimmed&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=135)
+
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas16716&show_icons=true&theme=github_dark_dimmed&border_radius=5&card_width=500&card_height=135)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas16716&layout=donut-vertical&theme=github_dark_dimmed&border_radius=5&card_width=400&card_height=135)
+
+  
 </div>
 
 ###
 <br clear="both">
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Lucas16716.Lucas16716&left_color=dodgerblue&right_color=slategrey&left_text=%F0%9F%91%81%EF%B8%8F%20Profile%20Views"  />
-</div>
+
+<p align="center"><img src"https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Flucas16716&s=40&c=2b00ff&bg=00000000&no=4&ff=alien&tb=VIEWS+&ta="/></p>
 
 ###
 
@@ -123,7 +125,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/8de6f18971dc95a306bcbefa4878a5685b102f72905d9d1ca0af1be62024cac8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303535344436266865696768743d3132302673656374696f6e3d666f6f746572"  />
+  <img height="150" src="https://camo.githubusercontent.com/8de6f18971dc95a306bcbefa4878a5685b102f72905d9d1ca0af1be62024cac8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303535344436266865696768743d3132302673656374696f6e3d666f6f746572"/>
 </div>
 
 ###
