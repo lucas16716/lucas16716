@@ -103,6 +103,7 @@
 ###
 
 <div align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lucas16716&theme=github-dark-dimmed&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=135)](https://git.io/streak-stats)
   <img src="https://github-readme-stats.vercel.app/api?username=Lucas16716&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1" height="135" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas16716&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="135" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lucas16716&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false&custom_title=Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%B5es" height="284" alt="activity-graph graph"  />
