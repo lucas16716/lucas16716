@@ -97,7 +97,6 @@
 
 ###
 <br clear="both">
-
 <h2 align="left">⚙️ GitHub Analytics 📈</h2>
 
 ###
@@ -108,16 +107,15 @@
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas16716&show_icons=true&theme=github_dark_dimmed&border_radius=5&card_width=450&card_height=135)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas16716&layout=donut-vertical&theme=github_dark_dimmed&border_radius=5&card_width=382&card_height=135)
-
   
 </div>
 
 ###
 <br clear="both">
-
-
-<p align="center"><img src"https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Flucas16716&s=40&c=2b00ff&bg=00000000&no=4&ff=alien&tb=VIEWS+&ta="/></p>
-
+<div align="center">
+<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Flucas16716&s=30&c=0091ff&bg=00000000&no=4&ff=alien&tb=VIEWS+&ta=" alt="visits">
+</div>
+  
 ###
 
 <p align="center">Obrigado pela visita, aproveite os projetos e me siga! 😁</p>
@@ -125,7 +123,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/8de6f18971dc95a306bcbefa4878a5685b102f72905d9d1ca0af1be62024cac8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303535344436266865696768743d3132302673656374696f6e3d666f6f746572"/>
+  <img height="150" https://camo.githubusercontent.com/8de6f18971dc95a306bcbefa4878a5685b102f72905d9d1ca0af1be62024cac8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303535344436266865696768743d3132302673656374696f6e3d666f6f746572"/>
 </div>
 
 ###
