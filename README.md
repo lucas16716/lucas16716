@@ -98,7 +98,7 @@
 ###
 <br clear="both">
 
-<h2 align="left">⚙️  GitHub Analytics 📈</h2>
+<h2 align="left">⚙️ GitHub Analytics 📈</h2>
 
 ###
 
@@ -106,8 +106,8 @@
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lucas16716&theme=github-dark-dimmed&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=135)
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas16716&show_icons=true&theme=github_dark_dimmed&border_radius=5&card_width=500&card_height=135)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas16716&layout=donut-vertical&theme=github_dark_dimmed&border_radius=5&card_width=400&card_height=135)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas16716&show_icons=true&theme=github_dark_dimmed&border_radius=5&card_width=450&card_height=135)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas16716&layout=donut-vertical&theme=github_dark_dimmed&border_radius=5&card_width=350&card_height=135)
 
   
 </div>
