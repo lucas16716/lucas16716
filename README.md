@@ -73,7 +73,7 @@
 
 ###
 
-<h6 align="left">EM ESTUDO...</h6>
+<h6 align="left">EM ESTUDO  E DESENVOLVIMENTO...</h6>
 
 ###
 
