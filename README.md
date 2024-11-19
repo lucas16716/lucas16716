@@ -49,7 +49,7 @@
 ###
 <br clear="both">
 
-<h2 align="left">💻 Tecnologias e Ferramentas 🛠️</h2>
+<h2 align="left">💻 Tecnologias e Ferramentas</h2>
 
 ###
 
@@ -97,7 +97,7 @@
 
 ###
 <br clear="both">
-<h2 align="left">⚙️ GitHub Analytics 📈</h2>
+<h2 align="left">📈 GitHub Analytics</h2>
 
 ###
 
