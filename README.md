@@ -35,16 +35,16 @@ Acredito no poder do design e da tecnologia para proporcionar experiências úni
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lucas-coutoti/" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-coutoti/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:lucasdesouza16716@gmail.com" target="_blank">
+  <a href="mailto:lucasdesouza16716@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://wa.me/5511951220009?text=Ol%C3%A1!%20Vim%20atrav%C3%A9s%20do%20seu%20GitHub%20%F0%9F%98%B8" target="_blank">
+  <a href="https://wa.me/5511951220009?text=Ol%C3%A1!%20Vim%20atrav%C3%A9s%20do%20seu%20GitHub%20%F0%9F%98%B8">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-  <a href="https://www.instagram.com/lvcas.couto/" target="_blank">
+  <a href="https://www.instagram.com/lvcas.code/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
