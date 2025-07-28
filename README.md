@@ -107,8 +107,6 @@ Acredito no poder do design e da tecnologia para proporcionar experiências úni
 <div align="center">
   <a href="https://github.com/lucas16716"/>
     
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lucas16716&theme=github-dark-dimmed&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=135)
-
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas16716&show_icons=true&theme=github_dark_dimmed&border_radius=5&card_width=530&card_height=135)
   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas16716&layout=donut-vertical&theme=github_dark_dimmed"/>
   
