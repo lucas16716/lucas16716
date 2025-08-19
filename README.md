@@ -8,11 +8,8 @@
 </div>
   
 ###
-
-<p align="center">Olá, sou o Lucas, um Desenvolvedor Web apaixonado por Front-End e UX/UI Design.
-Meu objetivo é transformar realidades através de códigos, criando soluções digitais bem estruturadas que combinem funcionalidade, design intuitivo e desempenho otimizado, sempre com foco na experiência do usuário.
-Acredito no poder do design e da tecnologia para proporcionar experiências únicas e estou em constante busca por novos desafios para continuar aprendendo e evoluindo.</p>
-<p align="center">Vamos juntos impulsionar a evolução da tecnologia e construir algo incrível! 🚀🌐</p>
+<p align="center">Olá, sou o Lucas, um desenvolvedor e web designer com o objetivo de transformar realidades através de códigos, criando soluções digitais bem estruturadas que combinem funcionalidade, design intuitivo e alto desempenho, sempre com foco na experiência do usuário e orientado a resultados.Acredito no poder do design e da tecnologia para proporcionar experiências únicas e estou em constante busca por novos desafios para continuar aprendendo e evoluindo.</p>
+<p align="center">Vamos juntos codar o futuro e impulsionar a evolução da tecnologia! 🚀🌐</p>
 
 ###
 
@@ -24,7 +21,7 @@ Acredito no poder do design e da tecnologia para proporcionar experiências úni
 
 ###
 
-<p align="left">🎓 Profissional de TI - Tecnologia da Informação e Técnico de Informática <br>📚 Atualmente estudando e praticando Front-End e UX/UI Design na Origamid <br>🎯 Objetivo é tornar-me um Desenvolvedor Web Full Stack <br>🎵 A música me motiva e inspira <br>🕹️ Amo jogos de programação e lógica <br>📍 Sou de São Paulo, SP - Brasil</p>
+<p align="left">🎓 Profissional de TI - Tecnologia da Informação e Técnico de Informática <br>📚 Atualmente estudando e praticando Front-End e UX/UI Design na Origamid <br>🎯 Objetivo é tornar-me um Desenvolvedor Web Full Stack <br>🎵 A música me motiva, inspira e me dá foco <br>🕹️ Amo desafios de programação e lógica <br>📍 Sou de São Paulo, SP - Brasil</p>
 
 ###
 
