@@ -31,14 +31,16 @@
 ###
 
 <div align="center">
+  <a href="https://bio.site/lucascode">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
-  <a href="mailto:lucasdesouza16716@gmail.com" target="_blank">
+ </a>
+    <a href="mailto:lucasdesouza16716@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/lvcas.couto/" target="_blank">
+  <a href="https://www.instagram.com/lvcas.couto/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/lucas-coutoti/" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-coutoti/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
