@@ -8,8 +8,7 @@
 </div>
   
 ###
-<p align="center">Olá, sou o Lucas, um desenvolvedor e web designer com o objetivo de transformar realidades através de códigos, criando soluções digitais bem estruturadas que combinem funcionalidade, design intuitivo e alto desempenho, sempre com foco na experiência do usuário e orientado a resultados.Acredito no poder do design e da tecnologia para proporcionar experiências únicas e estou em constante busca por novos desafios para continuar aprendendo e evoluindo.</p>
-<p align="center">Vamos juntos codar o futuro e impulsionar a evolução da tecnologia! 🚀🌐</p>
+<p align="center">Olá, meu nome é Lucas e sou um desenvolvedor e web designer com o objetivo de transformar realidades através de códigos, <br>criando soluções digitais acessíveis que combinem funcionalidade, design e alto desempenho, <br>sempre com foco na experiência do usuário e orientado a resultados. <br>Vamos juntos contribuir para a evolução tecnológica!<br>#CodingTheFuture 🌐</p>
 
 ###
 
@@ -21,7 +20,7 @@
 
 ###
 
-<p align="left">🎓 Profissional de TI - Tecnologia da Informação e Técnico de Informática <br>📚 Estudando e praticando Front-End e UX/UI Design na Origamid <br>🎯 Objetivo é tornar-me um Desenvolvedor Web Full Stack <br>🎵 A música me motiva, inspira e me dá foco <br>🕹️ Amo desafios de programação e lógica <br>📍 Sou de São Paulo, SP - Brasil</p>
+<p align="left">🎓 Profissional de TI - Tecnologia da Informação e Técnico de Informática<br>📚 Estudando e praticando Front-End e UX/UI Design na Origamid<br>🎯 Objetivo é tornar-me um Desenvolvedor Web Full Stack<br>🎵 A música me motiva, inspira e me dá foco<br>🕹️ Amo desafios de programação e lógica<br>📍 Sou de São Paulo, SP - Brasil</p>
 
 ###
 
@@ -32,22 +31,19 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lucas-coutoti/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:lvcas.code@gmail.com">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
+  <a href="mailto:lucasdesouza16716@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://wa.me/5511951220009?text=Ol%C3%A1!%20Vim%20atrav%C3%A9s%20do%20seu%20GitHub%20%F0%9F%98%B8">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.instagram.com/lvcascode/">
+  <a href="https://www.instagram.com/lvcas.couto/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-coutoti/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
-<br clear="both">
 
 <h2 align="left">💻 Tecnologias e Ferramentas</h2>
 
@@ -66,14 +62,14 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
 ###
 
-<h6 align="left">EM ESTUDO  E DESENVOLVIMENTO...</h6>
+<h6 align="left">EM ESTUDO...</h6>
 
 ###
 
@@ -96,17 +92,15 @@
 </div>
 
 ###
-<br clear="both">
-<h2 align="left">📈 GitHub Analytics</h2>
+
+<h2 align="left">⚙📈 GitHub Analytics</h2>
 
 ###
 
 <div align="center">
-  <a href="https://github.com/lucas16716"/>
-    
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas16716&show_icons=true&theme=github_dark_dimmed&border_radius=5&card_width=530&card_height=135)
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas16716&layout=donut-vertical&theme=github_dark_dimmed"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas16716&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&order=1" height="142" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas16716&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="142" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Lucas16716&locale=pt-br&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
 </div>
 
 ###
