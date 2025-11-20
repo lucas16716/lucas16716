@@ -8,7 +8,7 @@
 </div>
   
 ###
-<p align="center">Olá, meu nome é Lucas e sou um desenvolvedor e web designer com o objetivo de transformar realidades através de códigos, <br>criando soluções digitais acessíveis que combinem funcionalidade, design e alto desempenho, <br>sempre com foco na experiência do usuário e orientado a resultados. <br>Vamos juntos contribuir para a evolução tecnológica!<br>#CodingTheFuture 🌐</p>
+<p align="center">Olá, meu nome é Lucas e sou um desenvolvedor web com o objetivo de transformar a realidade através de códigos, <br>criando soluções digitais que combinam funcionalidade, design e alto desempenho, <br>sempre com foco na experiência do usuário e orientado a resultados. <br>Vamos juntos contribuir para a evolução tecnológica!<br>#CodingTheFuture 🌐</p>
 
 ###
 
