@@ -8,7 +8,7 @@
 </div>
   
 ###
-<p align="center">Hi, my name is Lucas and I am a web developer focused on transforming ideas into digital solutions through code.<br>I build projects that combine functionality, design and performance,<br>always aiming to improve user experience and deliver real results.<br>Let’s build the future together through technology!<br>#CodingTheFuture 🌐</p>
+<p align="center">Hi, my name is Lucas and I am a web developer focused on transforming ideas into digital solutions through code.<br>I build projects that combine functionality, design and performance, always<br>aiming to improve user experience and deliver real results.<br>Let’s build the future together through technology!<br>#CodingTheFuture 🌐</p>
 
 ###
 
