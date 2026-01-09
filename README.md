@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🎓 Profissional de TI - Tecnologia da Informação e Técnico de Informática<br>📚 Estudando e praticando Front-End e UX/UI Design na Origamid<br>🎯 Objetivo é tornar-me um Desenvolvedor Web Full Stack<br>🎵 A música me motiva, inspira e me dá foco<br>🕹️ Amo desafios de programação e lógica<br>📍 Sou de São Paulo, SP - Brasil</p>
+<p align="left">👨🏻‍💻 Desenvolvedor Front-End há 1 ano e meio<br>🎓 Profissional de TI - Tecnologia da Informação e Técnico de Informática<br>🎯 Objetivo é tornar-me um Desenvolvedor Web Full Stack<br>🎵 A música me motiva, inspira e me dá foco<br>🕹️ Amo desafios de programação e lógica<br>📍 Sou de São Paulo, SP - Brasil</p>
 
 ###
 
@@ -47,7 +47,7 @@
 
 ###
 
-<h2 align="left">💻 Tecnologias e Ferramentas</h2>
+<h2 align="left">Tecnologias e Ferramentas</h2>
 
 ###
 
@@ -95,7 +95,7 @@
 
 ###
 
-<h2 align="left">⚙📈 GitHub Analytics</h2>
+<h2 align="left">GitHub Analytics</h2>
 
 ###
 
