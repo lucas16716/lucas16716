@@ -104,12 +104,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas16716&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="142" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Lucas16716&locale=pt-br&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
 </div>
-
-###
-<br clear="both">
-<div align="center">
-<img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Flucas16716&s=30&c=0091ff&bg=00000000&no=4&ff=alien&tb=VIEWS+&ta=" alt="visits">
-</div>
   
 ###
 
