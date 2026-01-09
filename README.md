@@ -8,7 +8,7 @@
 </div>
   
 ###
-<p align="center">Olá, meu nome é Lucas e sou um desenvolvedor web com o objetivo de transformar a realidade através de códigos, <br>criando soluções digitais que combinam funcionalidade, design e alto desempenho, <br>sempre com foco na experiência do usuário e orientado a resultados. <br>Vamos juntos contribuir para a evolução tecnológica!<br>#CodingTheFuture 🌐</p>
+<p align="center">Olá, meu nome é Lucas e sou um desenvolvedor web com o objetivo de transformar a realidade através de códigos, <br>criando soluções digitais que combinam funcionalidade, design e alto desempenho, <br>sempre orientadas a resultados e à melhor experiência do usuário. <br>Vamos juntos contribuir para a evolução tecnológica!<br>#CodingTheFuture 🌐</p>
 
 ###
 
@@ -44,6 +44,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+<br>
 
 ###
 
@@ -56,6 +57,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
@@ -67,6 +70,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="40" alt="photoshop logo"  />
+
 </div>
 
 ###
@@ -88,10 +94,11 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
+
+<br>
+
 
 ###
 
