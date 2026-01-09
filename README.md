@@ -4,11 +4,11 @@
 
 ###
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=700&color=5F92E5&center=true&multiline=true&width=650&height=100&lines=%3CHello+World%2F%3E;Bem+vindos+ao+meu+GitHub!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=700&color=5F92E5&center=true&multiline=true&width=650&height=100&lines=%3CHello+World%2F%3E;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 </div>
   
 ###
-<p align="center">Olá, meu nome é Lucas e sou um desenvolvedor web com o objetivo de transformar a realidade através de códigos, <br>criando soluções digitais que combinam funcionalidade, design e alto desempenho, <br>sempre orientadas a resultados e à melhor experiência do usuário. <br>Vamos juntos contribuir para a evolução tecnológica!<br>#CodingTheFuture 🌐</p>
+<p align="center">Hi, my name is Lucas and I am a web developer focused on transforming ideas into digital solutions through code.<br>I build projects that combine functionality, design and performance,<br>always aiming to improve user experience and deliver real results.<br>Let’s build the future together through technology!<br>#CodingTheFuture 🌐</p>
 
 ###
 
@@ -16,17 +16,13 @@
 
 ###
 
-<h4 align="left">Descubra mais sobre mim 🔍</h4>
+<h4 align="left">About me 👨🏻‍💻</h4>
+
+<p align="left">• Front-End Developer with 1.5 years of experience<br>• IT professional with a strong technical background<br>• Currently focused on Front-End and evolving towards Full Stack<br>• Passionate about problem-solving and logical challenges<br>• Music keeps me focused, inspired and creative<br>• Based in São Paulo, Brazil</p>
 
 ###
 
-<p align="left">👨🏻‍💻 Desenvolvedor Front-End há 1 ano e meio<br>🎓 Profissional de TI - Tecnologia da Informação e Técnico de Informática<br>🎯 Objetivo é tornar-me um Desenvolvedor Web Full Stack<br>🎵 A música me motiva, inspira e me dá foco<br>🕹️ Amo desafios de programação e lógica<br>📍 Sou de São Paulo, SP - Brasil</p>
-
-###
-
-<br clear="both">
-
-<h4 align="center">ME CONTATE 📲</h4>
+<h4 align="center">Contact Me 📫</h4>
 
 ###
 
@@ -48,7 +44,7 @@
 
 ###
 
-<h2 align="left">Tecnologias e Ferramentas</h2>
+<h2 align="left">Technologies & Tools</h2>
 
 ###
 
@@ -77,7 +73,7 @@
 
 ###
 
-<h6 align="left">EM ESTUDO...</h6>
+<h6 align="left">Currently Learning...</h6>
 
 ###
 
@@ -114,7 +110,9 @@
   
 ###
 
-<p align="center">Obrigado pela visita, aproveite os projetos e me siga! 😁</p>
+<p align="center">Thanks for visiting!  
+Feel free to explore my projects and connect with me 😊
+</p>
 
 ###
 
