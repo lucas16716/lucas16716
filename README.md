@@ -1,9 +1,4 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/bb5162e9ea69646bf34b8de6d58c252b6409ed4f5a6ca2c0bb3aa98c5e4209cd/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303535344436266865696768743d3132302673656374696f6e3d686561646572"  />
-</div>
-
-###
-<div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&pause=700&color=5F92E5&center=true&multiline=true&width=650&height=100&lines=%3CHello+World%2F%3E;Welcome+to+my+GitHub!" alt="Typing SVG" /></a>
 </div>
   
@@ -114,10 +109,4 @@
 Feel free to explore my projects and connect with me 😊
 </p>
 
-###
 
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/8de6f18971dc95a306bcbefa4878a5685b102f72905d9d1ca0af1be62024cac8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303535344436266865696768743d3132302673656374696f6e3d666f6f746572"/>
-</div>
-
-###
