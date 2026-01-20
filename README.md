@@ -25,7 +25,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,git,github"/>
 
 <h6 align="left">Currently Learning...</h6>
-<img align="left" src="https://skillicons.dev/icons?i=react,next,typescript,tailwind,bootstrap"/>
+<img align="left" src="https://skillicons.dev/icons?i=figma,react,materialui,next,typescript,tailwind,bootstrap"/>
 
 <br><br><br><br>
 
