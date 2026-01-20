@@ -37,7 +37,7 @@
   <img src="https://streak-stats.demolab.com?user=Lucas16716&locale=pt-br&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
 </div>
   
-<br><br><br>
+<br><br>
 
 <h4 align="center">Thanks for visiting!  
 Feel free to explore my projects and connect with me 😊
