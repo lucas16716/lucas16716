@@ -1,9 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0229a3,40:0044CC,70:0055FF,100:00AAFF&section=header"/>
 
 <div align="center">
-  <a href="https://git.io/typing-svg" align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=38&duration=2000&pause=600&color=0044CC&center=true&vCenter=true&multiline=true&width=650&height=100&lines=%3CHello+World%2F%3E;Welcome+to+my+GitHub."/>
-  </a>
+<a href="https://git.io/typing-svg" align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=38&duration=2000&pause=600&color=0044CC&center=true&vCenter=true&multiline=true&width=650&height=100&lines=%3CHello+World%2F%3E;Welcome+to+my+GitHub."/>
+</a>
 </div>
 
 # Hey, I'm Lucas
@@ -42,13 +42,13 @@
 
 </p>
 
-I'm a **Front-End Developer** passionate about creating digital experiences where **design, engineering and strategy** work together.
+I'm a **Front-End Developer** passionate about building meaningful digital experiences through **strategy, design and engineering**.
 
 Currently working at [**APCD**](https://www.linkedin.com/company/apcd-associa%C3%A7%C3%A3o-paulista-de-cirurgi%C3%B5es-dentistas/) while building **Lucas Code**, my own Web Development Studio.
 
 I believe websites should do more than simply exist.
 
-They should communicate, solve problems, strengthen brands and create real value.
+They should communicate clearly, solve problems, strengthen brands and create real value.
 
 #### Current Focus:
 
@@ -56,7 +56,7 @@ They should communicate, solve problems, strengthen brands and create real value
 - Creative Development
 - Design Systems
 - UI Engineering
-- Performance, Accessibility & SEO
+- Accessibility, Performance & SEO
 - Open Source
 
 #### Tech Stack:
@@ -73,16 +73,11 @@ My **Web Development Studio** focused on helping people, brands and businesses b
 
 Every project starts before the first line of code.
 
-It starts with:
+It starts with **strategy**, evolves through **structure** and **identity**, and comes to life through **technology**.
 
-- Strategy
-- Structure
-- Identity
-- Technology
+Because in the digital world,
 
-Because in the digital world...
-
-**Being online isn't enough.**
+**being online isn't enough.**
 
 You need to be **remembered**.
 
@@ -92,7 +87,7 @@ You need to be **remembered**.
 
 A modern Front-End foundation built with **Vite**, **Sass** and **JavaScript**.
 
-Created to remove repetitive setup work and let developers start building immediately.
+Created to simplify project setup and let developers start building immediately.
 
 Instead of defining how your project should look...
 
@@ -102,7 +97,9 @@ Instead of defining how your project should look...
 > Identity second.  
 > Code faster.
 
-<br>
+*Build with structure. Scale with confidence.*
+
+---
 
 # GitHub Analytics
 
