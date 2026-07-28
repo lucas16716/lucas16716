@@ -79,8 +79,9 @@ I build high-performance digital experiences through strategy, identity and tech
 
 <br>
 
-## Contribution Snake
 ![Snake animation](https://github.com/lucas16716/lucas16716/blob/output/github-contribution-grid-snake2.svg)
+
+
 
 <br>
 
@@ -114,6 +115,7 @@ Every project starts with structure before code.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas16716&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="142" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Lucas16716&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
 </div>
+
   
 <br><br>
 <h4 align="center">Thanks for visiting!<br> 
