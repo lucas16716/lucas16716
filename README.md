@@ -105,9 +105,18 @@ Instead of defining how your project should look...
 <br>
 
 # GitHub Analytics
+  
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lucas16716&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&locale=pt-br&cache_seconds=1800">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=lucas16716&show_icons=true&theme=default&hide_border=true&locale=pt-br&cache_seconds=1800" alt="Estatísticas do Lucas">
+</picture>
+  
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=lucas16716&theme=dark&hide_border=true&background=0D1117">
+<img height="180" src="https://streak-stats.demolab.com/?user=lucas16716&theme=default&hide_border=true" alt="Streak do Lucas">
+</picture>
+  
 
-![lucas16716's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=lucas16716&theme=github&chart=bars)
-![lucas16716's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=lucas16716&type=contributions&theme=github)
 
 <div align="center">
 
