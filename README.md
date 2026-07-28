@@ -105,22 +105,33 @@ Instead of defining how your project should look...
 <br>
 
 # GitHub Analytics
-  
+
+<div align="center">
+
+<!-- CÓDIGO ORIGINAL (VERCEL) - PAUSADO POR LIMITE DE BANDA
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lucas16716&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&locale=pt-br&cache_seconds=1800">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=lucas16716&show_icons=true&theme=default&hide_border=true&locale=pt-br&cache_seconds=1800" alt="Estatísticas do Lucas">
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lucas16716&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&locale=pt-br">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=lucas16716&show_icons=true&theme=default&hide_border=true&locale=pt-br" alt="Estatísticas do Lucas">
+</picture>
+-->
+
+<!-- Estatísticas Gerais -->
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://readme-stats-github.pages.dev/api?username=lucas16716&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&locale=pt-br">
+<img height="180" src="https://readme-stats-github.pages.dev/api?username=lucas16716&show_icons=true&theme=default&hide_border=true&locale=pt-br" alt="Estatísticas do Lucas">
 </picture>
   
+<!-- Streak (Dias Seguidos) -->
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=lucas16716&theme=dark&hide_border=true&background=0D1117">
 <img height="180" src="https://streak-stats.demolab.com/?user=lucas16716&theme=default&hide_border=true" alt="Streak do Lucas">
 </picture>
-  
 
+</div>
+  
+<br>
 
 <div align="center">
-
-<br>
 
 ### Thanks for stopping by.
 
