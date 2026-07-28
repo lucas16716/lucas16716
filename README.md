@@ -80,6 +80,11 @@ I build high-performance digital experiences through strategy, identity and tech
 
 <br>
 
+## Contribution Snake
+![Snake animation](https://github.com/lucas16716/lucas16716/blob/output/github-contribution-grid-snake2.svg)
+
+<br>
+
 ## What I'm focused on
 <img align="right" height="200" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  />
 <p align="left">
@@ -132,5 +137,4 @@ Feel free to explore my projects and connect with me 😊
   
  </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&&color=0:0229a3,50:0044CC,90:0055FF&height=130&section=footer"/>
-
 
