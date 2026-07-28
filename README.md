@@ -7,18 +7,32 @@
 </div>
 
 ## I'm Lucas Couto
-![badge](https://shieldcn.dev/flag/br.svg?variant=outline&theme=emerald&mode=light&label=based+in&height=30&fontSize=12&iconSize=10&gap=8&labelGap=4)
-![badge](https://shieldcn.dev/badge/powered%20by-Coffee-6F4E37.svg?variant=outline&mode=light&logo=ri%3AFaCoffee&logoColor=6F4E37&height=30&fontSize=12&iconSize=11&gap=8&labelGap=4)
-[![badge](https://shieldcn.dev/badge/let's%20connect%20on-LinkedIn-0A66C2.svg?variant=outline&mode=light&logo=ri%3ABsLinkedin&logoColor=0A66C2&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4)](https://www.linkedin.com/in/lucas-coutoti/)
-[![badge](https://shieldcn.dev/badge/send%20me%20an-Email.svg?variant=outline&theme=rose&mode=light&logo=gmail&logoColor=EA4335&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4)](mailto:lucasdesouza16716@gmail.com)
-[![badge](https://shieldcn.dev/badge/check%20out%20my-Portfolio-0229a3.svg?variant=outline&mode=light&logo=ri%3AFaGlobe&logoColor=0229a3&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4)](https://bio.site/lucascode)
-
-TESTE
-![badge](https://shieldcn.dev/flag/br.svg?variant=outline&theme=emerald&mode=light&label=based+in&height=30&fontSize=12&iconSize=10&gap=8&labelGap=4#gh-light-mode-only)![badge](https://shieldcn.dev/flag/br.svg?variant=outline&theme=emerald&mode=dark&label=based+in&height=30&fontSize=12&iconSize=10&gap=8&labelGap=4#gh-dark-mode-only)
-![badge](https://shieldcn.dev/badge/powered%20by-Coffee-6F4E37.svg?variant=outline&mode=light&logo=ri%3AFaCoffee&logoColor=6F4E37&height=30&fontSize=12&iconSize=11&gap=8&labelGap=4#gh-light-mode-only)![badge](https://shieldcn.dev/badge/powered%20by-Coffee-6F4E37.svg?variant=outline&mode=dark&logo=ri%3AFaCoffee&logoColor=6F4E37&height=30&fontSize=12&iconSize=11&gap=8&labelGap=4#gh-dark-mode-only)
-[![badge](https://shieldcn.dev/badge/let's%20connect%20on-LinkedIn-0A66C2.svg?variant=outline&mode=light&logo=ri%3ABsLinkedin&logoColor=0A66C2&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4#gh-light-mode-only)](https://www.linkedin.com/in/lucas-coutoti/)[![badge](https://shieldcn.dev/badge/let's%20connect%20on-LinkedIn-0A66C2.svg?variant=outline&mode=dark&logo=ri%3ABsLinkedin&logoColor=0A66C2&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4#gh-dark-mode-only)](https://www.linkedin.com/in/lucas-coutoti/)
-[![badge](https://shieldcn.dev/badge/send%20me%20an-Email.svg?variant=outline&theme=rose&mode=light&logo=gmail&logoColor=EA4335&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4#gh-light-mode-only)](mailto:lucasdesouza16716@gmail.com)[![badge](https://shieldcn.dev/badge/send%20me%20an-Email.svg?variant=outline&theme=rose&mode=dark&logo=gmail&logoColor=EA4335&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4#gh-dark-mode-only)](mailto:lucasdesouza16716@gmail.com)
-[![badge](https://shieldcn.dev/badge/check%20out%20my-Portfolio-0229a3.svg?variant=outline&mode=light&logo=ri%3AFaGlobe&logoColor=0229a3&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4#gh-light-mode-only)](https://bio.site/lucascode)[![badge](https://shieldcn.dev/badge/check%20out%20my-Portfolio-0229a3.svg?variant=outline&mode=dark&logo=ri%3AFaGlobe&logoColor=0229a3&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4#gh-dark-mode-only)](https://bio.site/lucascode)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/flag/br.svg?variant=outline&theme=emerald&mode=dark&label=based+in&height=30&fontSize=12&iconSize=10&gap=8&labelGap=4">
+  <img src="https://shieldcn.dev/flag/br.svg?variant=outline&theme=emerald&mode=light&label=based+in&height=30&fontSize=12&iconSize=10&gap=8&labelGap=4" alt="Based in Brazil">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/powered%20by-Coffee-6F4E37.svg?variant=outline&mode=dark&logo=ri%3AFaCoffee&logoColor=6F4E37&height=30&fontSize=12&iconSize=11&gap=8&labelGap=4">
+  <img src="https://shieldcn.dev/badge/powered%20by-Coffee-6F4E37.svg?variant=outline&mode=light&logo=ri%3AFaCoffee&logoColor=6F4E37&height=30&fontSize=12&iconSize=11&gap=8&labelGap=4" alt="Powered by Coffee">
+</picture>
+<a href="https://www.linkedin.com/in/lucas-coutoti/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/let's%20connect%20on-LinkedIn-0A66C2.svg?variant=outline&mode=dark&logo=ri%3ABsLinkedin&logoColor=0A66C2&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4">
+    <img src="https://shieldcn.dev/badge/let's%20connect%20on-LinkedIn-0A66C2.svg?variant=outline&mode=light&logo=ri%3ABsLinkedin&logoColor=0A66C2&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4" alt="LinkedIn">
+  </picture>
+</a>
+<a href="mailto:lucasdesouza16716@gmail.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/send%20me%20an-Email.svg?variant=outline&theme=rose&mode=dark&logo=gmail&logoColor=EA4335&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4">
+    <img src="https://shieldcn.dev/badge/send%20me%20an-Email.svg?variant=outline&theme=rose&mode=light&logo=gmail&logoColor=EA4335&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4" alt="Email">
+  </picture>
+</a>
+<a href="https://bio.site/lucascode">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/check%20out%20my-Portfolio-0229a3.svg?variant=outline&mode=dark&logo=ri%3AFaGlobe&logoColor=0229a3&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4">
+    <img src="https://shieldcn.dev/badge/check%20out%20my-Portfolio-0229a3.svg?variant=outline&mode=light&logo=ri%3AFaGlobe&logoColor=0229a3&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4" alt="Portfolio">
+  </picture>
+</a>
 
 A **Front-End Developer** focused on transforming ideas into digital solutions through code, and passionate aboutdigital products, visual craft and interface engineering.
 
