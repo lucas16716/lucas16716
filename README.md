@@ -106,7 +106,8 @@ Instead of defining how your project should look...
 
 # GitHub Analytics
 
-![GitHubCard](https://githubcard.com/lucas16716.svg)
+![lucas16716's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=lucas16716&theme=github&chart=bars)
+![lucas16716's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=lucas16716&type=contributions&theme=github)
 
 <div align="center">
 
