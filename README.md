@@ -1,55 +1,66 @@
-<div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0229a3,40:0044CC,70:0055FF,100:00AAFF&section=header"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=38&duration=2000&pause=600&color=0044CC&center=true&vCenter=true&multiline=true&width=650&height=100&lines=%3CHello+World%2F%3E;Welcome+to+my+GitHub."/>
-</a>
+<div align="center">
+  <a href="https://git.io/typing-svg" align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=38&duration=2000&pause=600&color=0044CC&center=true&vCenter=true&multiline=true&width=650&height=100&lines=%3CHello+World%2F%3E;Welcome+to+my+GitHub."/>
+  </a>
 </div>
 
-# I'm Lucas Couto
+# Hey, I'm Lucas
+
+<p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/flag/br.svg?variant=outline&theme=emerald&mode=dark&label=based+in&height=30&fontSize=12&iconSize=10&gap=8&labelGap=4">
-  <img src="https://shieldcn.dev/flag/br.svg?variant=outline&theme=emerald&mode=light&label=based+in&height=30&fontSize=12&iconSize=10&gap=8&labelGap=4" alt="Based in Brazil">
+<source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/flag/br.svg?variant=outline&theme=emerald&mode=dark&label=based+in&height=30&fontSize=12&iconSize=10&gap=8&labelGap=4">
+<img src="https://shieldcn.dev/flag/br.svg?variant=outline&theme=emerald&mode=light&label=based+in&height=30&fontSize=12&iconSize=10&gap=8&labelGap=4" alt="Based in Brazil">
 </picture>
+  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/powered%20by-Coffee-6F4E37.svg?variant=outline&mode=dark&logo=ri%3AFaCoffee&logoColor=6F4E37&height=30&fontSize=12&iconSize=11&gap=8&labelGap=4">
-  <img src="https://shieldcn.dev/badge/powered%20by-Coffee-6F4E37.svg?variant=outline&mode=light&logo=ri%3AFaCoffee&logoColor=6F4E37&height=30&fontSize=12&iconSize=11&gap=8&labelGap=4" alt="Powered by Coffee">
+<source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/powered%20by-Coffee-6F4E37.svg?variant=outline&mode=dark&logo=ri%3AFaCoffee&logoColor=6F4E37&height=30&fontSize=12&iconSize=11&gap=8&labelGap=4">
+<img src="https://shieldcn.dev/badge/powered%20by-Coffee-6F4E37.svg?variant=outline&mode=light&logo=ri%3AFaCoffee&logoColor=6F4E37&height=30&fontSize=12&iconSize=11&gap=8&labelGap=4" alt="Powered by Coffee">
 </picture>
+
 <a href="https://www.linkedin.com/in/lucas-coutoti/">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/let's%20connect%20on-LinkedIn-0A66C2.svg?variant=outline&mode=dark&logo=ri%3ABsLinkedin&logoColor=0A66C2&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4">
-    <img src="https://shieldcn.dev/badge/let's%20connect%20on-LinkedIn-0A66C2.svg?variant=outline&mode=light&logo=ri%3ABsLinkedin&logoColor=0A66C2&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4" alt="LinkedIn">
-  </picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/let's%20connect%20on-LinkedIn-0A66C2.svg?variant=outline&mode=dark&logo=ri%3ABsLinkedin&logoColor=0A66C2&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4">
+<img src="https://shieldcn.dev/badge/let's%20connect%20on-LinkedIn-0A66C2.svg?variant=outline&mode=light&logo=ri%3ABsLinkedin&logoColor=0A66C2&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4" alt="LinkedIn">
+</picture>
 </a>
+
 <a href="mailto:lucasdesouza16716@gmail.com">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/send%20me%20an-Email.svg?variant=outline&theme=rose&mode=dark&logo=gmail&logoColor=EA4335&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4">
-    <img src="https://shieldcn.dev/badge/send%20me%20an-Email.svg?variant=outline&theme=rose&mode=light&logo=gmail&logoColor=EA4335&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4" alt="Email">
-  </picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/send%20me%20an-Email.svg?variant=outline&theme=rose&mode=dark&logo=gmail&logoColor=EA4335&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4">
+<img src="https://shieldcn.dev/badge/send%20me%20an-Email.svg?variant=outline&theme=rose&mode=light&logo=gmail&logoColor=EA4335&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4" alt="Email">
+</picture>
 </a>
+
 <a href="https://bio.site/lucascode">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/check%20out%20my-Portfolio-0229a3.svg?variant=outline&mode=dark&logo=ri%3AFaGlobe&logoColor=0229a3&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4">
-    <img src="https://shieldcn.dev/badge/check%20out%20my-Portfolio-0229a3.svg?variant=outline&mode=light&logo=ri%3AFaGlobe&logoColor=0229a3&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4" alt="Portfolio">
-  </picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/check%20out%20my-Portfolio-0229a3.svg?variant=outline&mode=dark&logo=ri%3AFaGlobe&logoColor=0229a3&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4">
+<img src="https://shieldcn.dev/badge/check%20out%20my-Portfolio-0229a3.svg?variant=outline&mode=light&logo=ri%3AFaGlobe&logoColor=0229a3&height=30&fontSize=12&iconSize=12&gap=8&labelGap=4" alt="Portfolio">
+</picture>
 </a>
 
-A **Front-End Developer** focused on transforming ideas into digital solutions through code, and passionate aboutdigital products, visual craft and interface engineering.
+</p>
 
-I don't see websites as isolated pages.
+I'm a **Front-End Developer** passionate about creating digital experiences where **design, engineering and strategy** work together.
 
-I see them as digital experiences capable of communicating, solve problems, positioning brands and creating real value.
+Currently working at [**APCD**](https://www.linkedin.com/company/apcd-associa%C3%A7%C3%A3o-paulista-de-cirurgi%C3%B5es-dentistas/) while building **Lucas Code**, my own Web Development Studio.
 
-Currently working at [**APCD**](https://www.linkedin.com/company/apcd-associa%C3%A7%C3%A3o-paulista-de-cirurgi%C3%B5es-dentistas/) and building **Lucas Code**, my Web Development Studio.
+I believe websites should do more than simply exist.
 
-#### What I'm focused on:
+They should communicate, solve problems, strengthen brands and create real value.
 
-- Modern Frontend Skills
-- Creative Development   
+#### Current Focus:
+
+- Front-End Engineering
+- Creative Development
+- Design Systems
 - UI Engineering
-- Better Digital Experiences
 - Performance, Accessibility & SEO
-- Open Source Projects – [**AXIS**](https://github.com/lucas16716/axis)
+- Open Source
+
+#### Tech Stack:
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,vite,nodejs,git,github,figma"/>
 
 <br>
 
@@ -58,86 +69,57 @@ Currently working at [**APCD**](https://www.linkedin.com/company/apcd-associa%C3
 [![badge](https://shieldcn.dev/badge/contact-Lucas%20Code-0229a3.svg?logo=gmail&logoColor=f5f8ff&height=30&fontSize=12&iconSize=14&gap=8&labelGap=4)](mailto:lvcas.code@gmail.com)
 [![badge](https://shieldcn.dev/badge/follow%20on-Instagram-0044cc.svg?logo=ri%3APiInstagramLogoFill&logoColor=f5f8ff&height=30&fontSize=12&iconSize=14&gap=8&labelGap=4)](https://www.instagram.com/lvcascode)
 
-My **Web Development Studio** focused on helping brands, businesses and professionals build a stronger online presence.
+My **Web Development Studio** focused on helping people, brands and businesses build a stronger online presence.
 
-Because, in the digital world, simply existing isn't enough.
+Every project starts before the first line of code.
 
-You need to be seen in the right way.
+It starts with:
 
-I build high-performance digital experiences through strategy, identity and technology, working at the intersection of design and engineering — where great user experience meets clean, scalable code.
+- Strategy
+- Structure
+- Identity
+- Technology
 
-> **Structure and strategy first.  
-> Design with purpose and identity.  
-> Code with quality and the  right technology.**
+Because in the digital world...
 
+**Being online isn't enough.**
 
-## Tech Stack
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,vite,nodejs,git,github,figma"/>
-
-#### Learning
-<img src="https://skillicons.dev/icons?i=react,tailwind"/>
+You need to be **remembered**.
 
 <br>
 
-![Snake animation](https://github.com/lucas16716/lucas16716/blob/output/github-contribution-grid-snake2.svg)
+# Featured Project - [AXIS](https://github.com/lucas16716/axis) <img src="/assets/logo-axis.svg" width="42" align="center" alt="Logo AXIS" />
 
+A modern Front-End foundation built with **Vite**, **Sass** and **JavaScript**.
 
+Created to remove repetitive setup work and let developers start building immediately.
+
+Instead of defining how your project should look...
+
+**AXIS provides the structure that lets you build it your own way.**
+
+> Structure first.  
+> Identity second.  
+> Code faster.
 
 <br>
 
-## What I'm focused on
-<img align="right" height="200" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  />
-<p align="left">
-  
-  - Modern Front-End
-  - Creative Development
-  - Design Systems
-  - Scalable and maintenible Architecture
-  - UI Engineering
-  - User Experience
-  - Performance & Accessibility & SEO
-</p>
-<br>
-## About LUCAS CODE
-**LUCAS CODE** is a Web Development Studio focused on helping people, brands and businesses build a stronger online presence throught digital experiences.
-Today my development combines three pillars:
-- Strategy & Engineering
-- Design & Identity
-- Technology & Inovation
-Everything I build follows this mindset.
-Every project starts with structure before code.
-<br>
+# GitHub Analytics
 
+![GitHubCard](https://githubcard.com/lucas16716.svg)
 
-<h2 align="left">GitHub Analytics</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas16716&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="142" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas16716&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="142" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Lucas16716&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
+
+<br>
+
+### Thanks for stopping by.
+
+*Always building.*
+
+*Always learning.*
+
+*See you in the next commit.*
+
 </div>
 
-  
-<br><br>
-<h4 align="center">Thanks for visiting!<br> 
-Feel free to explore my projects and connect with me 😊
-</h4>
-<div align="center">
-  <a href="https://bio.site/lucascode">
-    <img src="https://skillicons.dev/icons?i=devto"/>
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-coutoti/">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>
-  <a href="https://www.instagram.com/lvcascode/">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
-  </a>
-  <a href="mailto:lucasdesouza16716@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail"/>
-  </a>
-  <br><br>
-  ![Profile views](https://komarev.com/ghpvc/?username=lucas16716&label=Profile%20views&color=0554D6&style=flat)<br>
-  [![GitHub followers](https://img.shields.io/github/followers/lucas16716?style=social)](https://github.com/lucas16716)
-  
- </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&&color=0:0229a3,50:0044CC,90:0055FF&height=130&section=footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0229a3,40:0044CC,70:0055FF,100:00AAFF&section=footer"/>
