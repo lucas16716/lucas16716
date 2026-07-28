@@ -6,7 +6,7 @@
 </a>
 </div>
 
-## I'm Lucas Couto
+# I'm Lucas Couto
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/flag/br.svg?variant=outline&theme=emerald&mode=dark&label=based+in&height=30&fontSize=12&iconSize=10&gap=8&labelGap=4">
   <img src="https://shieldcn.dev/flag/br.svg?variant=outline&theme=emerald&mode=light&label=based+in&height=30&fontSize=12&iconSize=10&gap=8&labelGap=4" alt="Based in Brazil">
@@ -53,7 +53,7 @@ Currently working at [**APCD**](https://www.linkedin.com/company/apcd-associa%C3
 
 <br>
 
-## <img src="/assets/logo-lucascode.svg" width="46" align="center" alt="Logo Lucas Code" /> LUCAS CODE
+# <img src="/assets/logo-lucascode.svg" width="48" align="center" alt="Logo Lucas Code" /> LUCAS CODE
 [![badge](https://shieldcn.dev/badge/visit%20my-Website-011259.svg?logo=ri%3AFaGlobe&logoColor=f5f8ff&height=30&fontSize=12&iconSize=14&gap=8&labelGap=4)](https://bio.site/lucascode)
 [![badge](https://shieldcn.dev/badge/contact-Lucas%20Code-0229a3.svg?logo=gmail&logoColor=f5f8ff&height=30&fontSize=12&iconSize=14&gap=8&labelGap=4)](mailto:lvcas.code@gmail.com)
 [![badge](https://shieldcn.dev/badge/follow%20on-Instagram-0044cc.svg?logo=ri%3APiInstagramLogoFill&logoColor=f5f8ff&height=30&fontSize=12&iconSize=14&gap=8&labelGap=4)](https://www.instagram.com/lvcascode)
@@ -70,15 +70,21 @@ I build high-performance digital experiences through strategy, identity and tech
 > Design with purpose and identity.  
 > Code with quality and the  right technology.**
 
-<br>
 
 ## Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,vite,nodejs,git,github,figma"/>
 
-### Learning
+#### Learning
 <img src="https://skillicons.dev/icons?i=react,tailwind"/>
 
 <br>
+
+## GitHub ANalytics
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=lucas16716&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=lucas16716&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucas16716&layout=compact&theme=github_dark)
+![Snake animation](https://github.com/lucas16716/lucas16716/blob/output/github-contribution-grid-snake2.svg)
 
 ## What I'm focused on
 <img align="right" height="200" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  />
@@ -102,6 +108,8 @@ Today my development combines three pillars:
 Everything I build follows this mindset.
 Every project starts with structure before code.
 <br>
+
+
 <h2 align="left">GitHub Analytics</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lucas16716&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="142" alt="stats graph"  />
