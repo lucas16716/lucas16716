@@ -50,7 +50,7 @@ I believe websites should do more than simply exist.
 
 They should communicate clearly, solve problems, strengthen brands and create real value.
 
-#### Current Focus:
+#### What Drives Me
 
 - Front-End Engineering
 - Creative Development
@@ -59,7 +59,7 @@ They should communicate clearly, solve problems, strengthen brands and create re
 - Accessibility, Performance & SEO
 - Open Source
 
-#### Tech Stack:
+#### Tech Stack
 <img src="https://skillicons.dev/icons?i=html,css,sass,js,vite,nodejs,git,github,figma"/>
 
 <br>
