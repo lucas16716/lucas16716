@@ -83,15 +83,13 @@ You need to be **remembered**.
 
 <br>
 
-# Featured Project - [AXIS](https://github.com/lucas16716/axis) <img src="/assets/logo-axis.svg" width="42" align="center" alt="Logo AXIS" />
+# <img src="/assets/logo-axis.svg" width="48" align="center" alt="Logo AXIS" /> [AXIS](https://github.com/lucas16716/axis) - Featured Project
 
 A modern Front-End foundation built with **Vite**, **Sass** and **JavaScript**.
 
-Created to simplify project setup and let developers start building immediately.
+AXIS eliminates repetitive project setup, delivering a highly organized architecture right out of the box.
 
-Instead of defining how your project should look...
-
-**AXIS provides the structure that lets you build it your own way.**
+Establish your guidelines, define your structure, and jump straight into building it your own way.
 
 > Structure first.  
 > Identity second.  
